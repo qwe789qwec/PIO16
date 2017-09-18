@@ -1,0 +1,3 @@
+printf"hellow word!!"
+sfsdf
+1234848wesdfa
